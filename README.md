@@ -3,4 +3,6 @@
 
 ## Introduction
 
-This demo shows how to load Object3D-Models using [Pico Android Native SDK](https://developer.pico-interactive.com/sdk/index?id=6) on Neo 3 devices.
+This demo shows how to load Object3D-Models using [Pico Android Native SDK](https://developer.pico-interactive.com/sdk/index?id=6) on Neo 3 device.
+## Note
+Neo 3 device is supported since Android Native SDK v1.3.5
